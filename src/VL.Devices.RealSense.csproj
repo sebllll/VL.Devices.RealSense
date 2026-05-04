@@ -9,8 +9,7 @@
     <PackageRepositories>$(MsBuildThisFileDirectory)..\..\</PackageRepositories>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Intel.Realsense, Version=2.23.0.0, Culture=neutral, processorArchitecture=AMD64">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="Intel.Realsense, processorArchitecture=AMD64">
       <HintPath>..\lib\net8.0\Intel.Realsense.dll</HintPath>
     </Reference>
   </ItemGroup>
