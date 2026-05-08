@@ -1,5 +1,5 @@
 # VL.Devices.RealSense
-A package for using [RealSense](https://www.intelrealsense.com/) depth cameras by Intel.
+A package for using [RealSense](https://www.realsenseai.com/) depth cameras by Intel.
 
 For use with vvvv, the visual live-programming environment for .NET: http://vvvv.org
 
